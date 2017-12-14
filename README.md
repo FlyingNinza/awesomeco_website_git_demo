@@ -1,8 +1,8 @@
-#AwesomeCo Website
+# AwesomeCo Website
 
 This is a prototype website I did to learn Git and Github
 
-#Author
+# Author
 
 Manny Christman
 
